@@ -1,0 +1,10 @@
+.cache
+.data
+node_modules
+elm-stuff
+dist
+
+# Firebase
+.firebase
+.firebaserc
+firebase.json
